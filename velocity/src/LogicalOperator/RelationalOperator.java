@@ -7,7 +7,7 @@ public class RelationalOperator {
 	   			// AND Operator &&
 	   			
 	   			System.out.println( (10>3) && (12>7) );   // True
-	   			System.out.println( (10>4) && (12>8) );    // Unknown
+	   			System.out.println( (12>4) && (10>8) );    // Manager did some changes
 	   			System.out.println( (10>3) && (12<7) );   // True
 	   			
 	   			// OR Operator ||
